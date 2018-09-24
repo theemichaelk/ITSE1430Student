@@ -256,7 +256,7 @@ namespace Pizza_Creator
                 { price -= 0.75; }
                 price += 0.75;
                 Sausage = true;
-
+                
             }
             if (sausage != "1")
             { Sausage = false; }
