@@ -1,4 +1,10 @@
-﻿using System;
+﻿/* Mike Kaswatuka
+ * ITSE 1430-20630 (Introduction to C# Programming) 
+ * 10/10/2018 
+ * Professor Michael Taylor*/
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
