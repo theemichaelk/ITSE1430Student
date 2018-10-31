@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CharacterCreator.Winforms.Properties
+namespace ContactManager.WinForms.Properties
 {
 
 

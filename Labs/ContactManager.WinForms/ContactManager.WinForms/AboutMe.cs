@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CharacterCreator.Winforms
+namespace ContactManager.WinForms
 {
-    public partial class Form1 : Form
+    public partial class AboutMe : Form
     {
-        public Form1()
+        public AboutMe()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
